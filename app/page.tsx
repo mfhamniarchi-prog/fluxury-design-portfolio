@@ -1,4 +1,5 @@
 // app/page.tsx
+import { Menu } from 'lucide-react';
 import { Home, Sofa, Lightbulb, Ruler, ArrowRight, CheckCircle2, Mail, Phone } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
